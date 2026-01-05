@@ -2,11 +2,6 @@
 LockTalk is a mobile application designed to encrypt and decrypt text messages and images shared via WhatsApp. 
 
 
-**LockTalk** מוסיפה שכבת הצפנה מקומית לוואטסאפ: מצפינה/מפענחת טקסטים ותמונות על המכשיר עצמו, עם מפתח משותף שמגזר אוטומטית בין שני משתמשים וקוד אישי (PDC) שנדרש לפני פענוח. אין שליחה של טקסטים גלויים או מפתחות לענן.
-
-> **TL;DR:** הורידו את ה-APK מ-Releases, התקינו, אשרו הרשאות **Accessibility** ו-**Overlay**, הגדירו **PDC**, ושוחחו בוואטסאפ כרגיל – ההצפנה/פענוח קורים ברקע.
-
----
 
 ## 📦 הורדה והתקנה
 
