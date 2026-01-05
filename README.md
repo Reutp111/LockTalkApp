@@ -9,23 +9,12 @@ LockTalk is a mobile application designed to encrypt and decrypt text messages a
 2. במכשיר: אפשרו **התקנה ממקורות לא מוכרים** (Settings → Security).
 3. התקינו את הקובץ.
 
-> מומלץ לספק חתימת SHA-256 ב-Release להצלבה:
-> - Windows (PowerShell): `Get-FileHash .\app-release.apk -Algorithm SHA256`
-> - macOS/Linux: `shasum -a 256 app-release.apk`
-
----
-
 ## ✅ הרשאות נדרשות
-
 האפליקציה משתמשת בהרשאות הבאות לצורך שילוב עם וואטסאפ:
 
 - **Accessibility Service** – זיהוי בועות שיחה/הקלדה להפעלה אוטומטית של הצפנה/פענוח.
 - **Draw over other apps (Overlay)** – הצגת שכבת פענוח/אינדיקציה מעל וואטסאפ.
-- (אופציונלי) **Biometrics** – לפתיחת סשן פענוח כתחליף ל-PDC.
-
 > האפליקציה **לא** מצלמת/שומרת מסך צ’טים ולא מעלה טקסטים גלויים או מפתחות לענן.
-
-
 
 ## 🚀 הגדרה ראשונית
 
